@@ -1,5 +1,8 @@
 package com.practice.carrot.Util;
 
+import com.practice.carrot.login.LoginController;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.apache.tomcat.util.codec.binary.Base64;
 
 import javax.crypto.BadPaddingException;
@@ -15,11 +18,14 @@ import java.security.Key;
 import java.security.NoSuchAlgorithmException;
 
 
-public class AESCryptoUtil {
 
+public class AESCryptoUtil {
+//    Logger logger = LogManager.getLogger(AESCryptoUtil.class);
+//    logger.info("123");
     private static final Charset ENCODING_TYPE = StandardCharsets.UTF_8;
-    private static final String INSTANCE_TYPE = "AES/CBC/" +
-            ""
+//    private static final String INSTANCE_TYPE = "AES/CBC/" +
+//            ""
+
 
 
 
