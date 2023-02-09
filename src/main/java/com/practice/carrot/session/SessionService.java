@@ -1,7 +1,7 @@
-package com.practice.carrot.Session;
+package com.practice.carrot.session;
 
 
-import com.practice.carrot.Util.GetClientip;
+import com.practice.carrot.util.GetClientip;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;

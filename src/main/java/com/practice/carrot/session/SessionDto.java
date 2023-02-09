@@ -1,4 +1,4 @@
-package com.practice.carrot.Session;
+package com.practice.carrot.session;
 
 
 public class SessionDto {

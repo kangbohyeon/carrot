@@ -1,4 +1,4 @@
-package com.practice.carrot.Session;
+package com.practice.carrot.session;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

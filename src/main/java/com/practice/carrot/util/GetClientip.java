@@ -1,4 +1,4 @@
-package com.practice.carrot.Util;
+package com.practice.carrot.util;
 
 import javax.servlet.http.HttpServletRequest;
 
